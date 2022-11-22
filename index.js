@@ -9,7 +9,9 @@ const PORT = 3000
 // app.use(express.urlencoded({extended: false}))
 
 app.get('./', (req, res)=> {
-  res.send('hello from frontend')
+  res.json({
+    msg: 'route not found; Please use the api/products endpoint'
+  })
 })
 
 app.use('/api/products', require('./routes/api/products'))
