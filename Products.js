@@ -5,7 +5,7 @@ const cartProducts = [
       title: "queen panel bed",
       price: 10.99,
       image: {
-        url: "./images/product-1.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221172/products/product-1_twbqem.jpg"
       }
     }
   },
@@ -15,7 +15,7 @@ const cartProducts = [
       title: "king panel bed",
       price: 12.99,
       image: {
-        url: "./images/product-2.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221180/products/product-2_fzgogp.jpg"
       }
     }
   },
@@ -25,7 +25,7 @@ const cartProducts = [
       title: "single panel bed",
       price: 12.99,
       image: {
-        url: "./images/product-3.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221188/products/product-3_ymkxiq.jpg"
       }
     }
   },
@@ -35,7 +35,7 @@ const cartProducts = [
       title: "twin panel bed",
       price: 22.99,
       image: {
-        url: "./images/product-4.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221193/products/product-4_twwuct.jpg"
       }
     }
   },
@@ -45,7 +45,7 @@ const cartProducts = [
       title: "fridge",
       price: 88.99,
       image: {
-        url: "./images/product-5.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221207/products/product-5_lpm6gi.jpg"
       }
     }
   },
@@ -55,7 +55,7 @@ const cartProducts = [
       title: "dresser",
       price: 32.99,
       image: {
-        url: "./images/product-6.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221221/products/product-6_tajmao.jpg"
       }
     }
   },
@@ -65,7 +65,7 @@ const cartProducts = [
       title: "couch",
       price: 45.99,
       image: {
-        url: "./images/product-7.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221226/products/product-7_cw7qfg.jpg"
       }
     }
   },
@@ -75,7 +75,7 @@ const cartProducts = [
       title: "table",
       price: 33.99,
       image: {
-        url: "./images/product-8.jpeg"
+        url: "https://res.cloudinary.com/dslkhklbl/image/upload/v1669221234/products/product-8_nxkpvm.jpg"
       }
     }
   },
